@@ -1,4 +1,5 @@
 print("Hello world")
-print(""Go fuck yourself)
+print("Hello everybody")
 print("Hello")
 print("Hello my dear friend")
+print("Glad to see you")
